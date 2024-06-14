@@ -108,7 +108,7 @@ function HeroSection() {
               <div>
                 <span className="ml-4 lg:ml-8 mr-2 text-white">name:</span>
                 <span className="text-gray-400">{`'`}</span>
-                <span className="text-amber-300">Abu Said</span>
+                <span className="text-amber-300">Kelvin Lee</span>
                 <span className="text-gray-400">{`',`}</span>
               </div>
               <div className="ml-4 lg:ml-8 mr-2">
@@ -116,13 +116,17 @@ function HeroSection() {
                 <span className="text-gray-400">{`['`}</span>
                 <span className="text-amber-300">React</span>
                 <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">React Native</span>
+                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">NextJS</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Redux</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Express</span>
+                <span className="text-amber-300">NodeJS</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">NestJS</span>
+                <span className="text-amber-300">Go</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">PostgreSql</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">MySql</span>
                 <span className="text-gray-400">{"', '"}</span>
@@ -130,7 +134,13 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Docker</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">AWS</span>
+                <span className="text-amber-300">Ubuntu</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Drupal</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Wordpress</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Odoo</span>
                 <span className="text-gray-400">{"'],"}</span>
               </div>
               <div>
