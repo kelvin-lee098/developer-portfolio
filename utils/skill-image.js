@@ -72,7 +72,7 @@ import vuetifyjs from '/public/svg/skills/vuetifyjs.svg';
 import webix from '/public/svg/skills/webix.svg';
 import wolframalpha from '/public/svg/skills/wolframalpha.svg';
 import wordpress from '/public/svg/skills/wordpress.svg';
-import odoo from '/public/svg/skills/odoo.jpeg';
+import odoo from '/public/svg/skills/odoo.svg';
 import ubuntu from '/public/svg/skills/ubuntu.svg';
 import drupal from '/public/svg/skills/drupal.svg';
 

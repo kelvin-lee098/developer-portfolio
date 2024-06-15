@@ -1,6 +1,13 @@
 // @flow strict
 import { personalData } from "@/utils/data/personal-data";
 
+export async function generateStaticParams() {
+  // Your logic to fetch or define slugs goes here (see previous explanation)
+  return [{
+    slug: ''
+  }]
+}
+
 async function getBlog(slug) {
   const res = await fetch(`https://dev.to/api/articles/${personalData.devUsername}/${slug}`)
 
@@ -13,8 +20,8 @@ async function getBlog(slug) {
 };
 
 async function BlogDetails({params}) {
-  const slug = params.slug;
-  const blog = await getBlog(slug);
+  // const slug = params.slug;
+  // const blog = await getBlog(slug);
  
   return (
     <div>

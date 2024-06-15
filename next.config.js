@@ -6,5 +6,7 @@ module.exports = {
   },
   images: {
     domains: ['res.cloudinary.com', 'media.dev.to']
-  }
+  },
+  output: "export",  // <=== hide for local
+  reactStrictMode: true, 
 }
